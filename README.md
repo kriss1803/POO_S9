@@ -23,20 +23,26 @@ Interfaz de Usuario en la Consola:
 Crear un menú interactivo en la consola que permita al usuario realizar todas las operaciones mencionadas anteriormente.
 
 ## Ejecución del programa
-Agregando productos
-<img width="656" height="378" alt="image" src="https://github.com/user-attachments/assets/221949b6-ad9a-43a9-9126-130f24007e08" />
+### Agregando productos
 
-Mostrando el inventario
+<img width="656" height="378" alt="image" src="https://github.com/user-attachments/assets/221949b6-ad9a-43a9-9126-130f24007e08" />
+<img width="656" height="378" alt="image" src="https://github.com/user-attachments/assets/3577dbf5-69c9-4eec-8977-7447a64eeff2" />
+
+
+### Mostrando el inventario
 <img width="746" height="348" alt="image" src="https://github.com/user-attachments/assets/be8cacd5-989d-41d1-b45a-c27e42d58957" />
 
-Actualizando producto
+### Actualizando producto
+
 <img width="601" height="344" alt="image" src="https://github.com/user-attachments/assets/71722c99-14cc-4244-a1ef-d72cfb181789" />
 <img width="750" height="111" alt="image" src="https://github.com/user-attachments/assets/2dc78bd8-c231-4c04-9dd3-1401792862fe" />
 
-Buscando producto por nombre
+### Buscando producto por nombre
+
 <img width="727" height="340" alt="image" src="https://github.com/user-attachments/assets/dc4b11ba-98a4-499d-be55-41c04693037f" />
 
-Eliminando producto
+### Eliminando producto
+
 <img width="487" height="285" alt="image" src="https://github.com/user-attachments/assets/6f9f8a8c-20f5-416a-98cf-4e8d7e829998" />
 <img width="686" height="88" alt="image" src="https://github.com/user-attachments/assets/a7ec3bba-3e79-484f-a3ca-3c393a9077bc" />
 
